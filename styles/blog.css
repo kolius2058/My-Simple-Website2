@@ -1,4 +1,27 @@
-div{
+.header{
+    height: 500px;
+   background-image:url(Saisa.jpg);
+background-size: cover;
+/* background: size 300px; */
+    border-top:30px;
+}
+div
+{
     background-color: aqua;
     padding: 10px;
+    margin: 20px;
+    /* border-radius:20px; */
+    /* border-color: chocolate; */
+    margin: bottom 30px;
+}
+.blog{
+    
+    margin: 20px;
+    border:solid tomato;
+box-shadow:20px 30px 50px rgb(24, 2, 2);
+}
+h3{
+    text-decoration-line: overline;
+
+
 }
